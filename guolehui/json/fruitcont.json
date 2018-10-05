@@ -1,0 +1,482 @@
+[
+    {
+        "id":"101",
+        "http":"",
+        "title": "",
+        "img":"images/banner1.jpg"
+    },
+    {
+        "id": "102",
+        "http":"",
+        "title": "",
+        "img": "images/banner2.jpg"
+    },
+    {
+        "id": "103",
+        "http":"",
+        "title": "",
+        "img": "images/banner3.jpg"
+    },
+    {
+        "id": "104",
+        "http":"",
+        "title": "",
+        "img": "images/banner4.jpg"
+    },
+    {
+        "id": "105",
+        "http":"",
+        "title": "",
+        "img": "images/banner5.jpg"
+    },
+    {
+        "id":"106",
+        "http":"",
+        "title": "进口鲜果",
+        "detailnav1":"南非水果",
+        "detailnav2":"泰国水果",
+        "detailnav3":"越南水果",
+        "detailnav4":"法国水果",
+        "detailnav5":"智利水果",
+        "detailnav6":"菲律宾水果",
+        "detailnav7":"墨西哥水果",
+        "detailnav8":"澳大利亚水果",
+        "detailnav9":"西班牙水果",
+        "detailnav10":"新西兰水果",
+        "detailnav11":"秘鲁水果",
+        "detailnav12":"USA其他水果"
+    },
+    {
+        "id":"107",
+        "http":"",
+        "title": "国产鲜果",
+        "detailnav1":"新品上市",
+        "detailnav2":"时令水果",
+        "detailnav3":"推荐水果",
+        "detailnav4":"国产热卖水果"
+    },
+    {
+        "id":"108",
+        "http":"",
+        "title": "高档水果礼盒",
+        "detailnav1":"时令水果礼盒"
+        
+    },
+    {
+        "id": "109",
+        "http":"",
+        "title": "商务型提货券",
+        "detailnav1":"高端商务礼券",
+        "detailnav2":"三选一套餐券"
+        
+    },
+    {
+        "id": "110",
+        "http":"",
+        "title": "通用型提货券",
+        "detailnav1":"全国通用系列"
+    },
+    {
+        "id": "111",
+        "http":"",
+        "title": "中秋节专区",
+        "detailnav1":"通用系列提货券",
+        "detailnav2":"中秋节高端水果礼盒",
+        "detailnav3":"中秋节提货券"
+    },
+    {
+        "id": "112",
+        "http":"",
+        "title": "水果礼品卡",
+        "detailnav1":"礼品充值卡"
+    },
+    {
+        "id":"201",
+        "http":"",
+        "title": "",
+        "img":"images/256c8499bd1ff2e1f69340ca32e9d4b39498cd4e.jpg"
+    },
+    {
+        "id": "202",
+        "http":"",
+        "img": "images/80242a616a884ae2efec0612d5177b27809cec71.jpg"
+    },
+    {
+        "id": "203",
+        "http":"",
+        "title": "新闻公告"
+    },
+    {
+        "id": "204",
+        "http":"",
+        "title": "【NEW】提货券一键扫描提货"
+    },
+    {
+        "id": "205",
+        "http":"",
+        "title": "2018全网团购享金果会员价"
+    },
+    {
+        "id": "206",
+        "http":"",
+        "title": "双11配送通知"
+    },
+    {
+        "id": "207",
+        "http":"",
+        "title": "【NEW】订单配送温馨提示"
+    },
+    {
+        "id": "208",
+        "http":"",
+        "title": "网点商品详细介绍图下架通知"
+    },
+    {
+        "id": "209",
+        "http":"",
+        "title": "400电话高峰故障通知"
+    },
+    {
+        "id": "210",
+        "http":"",
+        "title": "厦门配送调整通知"
+    },
+    {
+        "id": "211",
+        "http":"",
+        "title": "企业/个人中秋团购通知"
+    },
+    {
+        "id":"301",
+        "http":"",
+        "title": "热门水果",
+        "img":""
+    },
+    {
+        "id":"302",
+        "http":"",
+        "title": "查看所有产品&gt;&gt;",
+        "img":""
+    },
+    {
+        "id":"303",
+        "http":"",
+        "title": "大号越南红心火龙果",
+        "img":"images/e90bc92507cb4118d79f0d1b3597726b79536d9c.jpg",
+        "price":"￥85.00",
+        "marketPrice":"￥138.00",
+        "detimg1":"../images/goodsdetail1.jpg",
+        "detimg2":"../images/goodsdetail2.jpg",
+        "detimg3":"../images/goodsdetail3.jpg",
+        "weight1":"优质大果4斤",
+        "weight2":"优质大果2斤",
+        "weight3":"10斤/每个重300g"
+
+    },
+    {
+        "id":"304",
+        "http":"",
+        "title": "大樱桃",
+        "img":"images/c2ee658ccadcc0d6b928e1dc21864f5796821273.jpg"
+    },
+    {
+        "id":"305",
+        "http":"",
+        "title": "【巨无霸特价】新西兰佳沛金奇异果",
+        "img":"images/c57fed864611ff3a6887678231a8f840c31553f5.jpg",
+        "price":"￥99.00",
+        "marketPrice":"￥118.00",
+        "detimg1":"../images/goods3051.jpg",
+        "detimg2":"../images/goods3052.jpg",
+        "detimg3":"../images/goods3053.jpg",
+        "weight1":"6个",
+        "weight2":"16个",
+        "weight3":"原装22个【每天限量1000份】"
+    },
+    {
+        "id":"306",
+        "http":"",
+        "title": "",
+        "img":"images/89804615b8d0e22be69050f06a5ec2962c24e9d9.jpg"
+    },
+    {
+        "id":"307",
+        "http":"",
+        "title": "【推荐特价】优质大号泰国山竹",
+        "img":"images/a5e62e066ea896bdda7bdda3cc51e6f79abe003c.jpg",
+        "price":"￥59.00",
+        "marketPrice":"￥258.00",
+        "weight1":"2斤/优质大号",
+        "weight2":"2斤",
+        "weight3":"【特价4斤】"
+    },
+    {
+        "id":"308",
+        "http":"",
+        "title": "海南小金黄农芒果",
+        "img":"images/dc1da20a51d671cacbdd419b6e6f4c90a02442ba.jpg",
+        "price":"￥29.00",
+        "marketPrice":"￥69.00"
+    },
+    {
+        "id":"401",
+        "http":"",
+        "title": "更多进口鲜果"
+    },
+    {
+        "id": "402",
+        "http":"",
+        "title": "秘鲁蓝莓",
+        "img": "images/28146cb1963aaeaf1548875eac0117eb41fba6e8.jpg",
+        "price": "￥159.00",
+        "marketPrice":"￥189.00",
+        "detimg1":"../images/goods4021.jpg",
+        "detimg2":"../images/goods4021.jpg",
+        "detimg3":"../images/goods4021.jpg",
+        "weight1":"饱满新鲜/6盒/125g",
+        "weight2":"6盒/125g",
+        "weight3":"饱满新鲜/12盒/125g"
+    },
+    {
+        "id": "403",
+        "http":"",
+        "title": "秘鲁蓝莓",
+        "img": "images/c93c67bd10cb8591b69cac9c12b4ba3549f58bf8.jpg"
+    },
+    {
+        "id": "404",
+        "http":"",
+        "title": "【特价】美国樱桃新品上市；每天限量",
+        "price": "￥118.00",
+        "marketPrice":"￥199.00",
+        "img": "images/101ec61885c9419c319e1d9402785e160d14fe98.png",
+        "detimg1":"",
+        "detimg2":"",
+        "detimg3":"",
+        "weight1":"优质2斤",
+        "weight2":"1斤",
+        "weight3":"3斤"
+    },
+    {
+        "id": "405",
+        "http":"",
+        "title": "新西兰佳沛绿奇异果；新品上市",
+        "price": "￥39.00",
+        "marketPrice":"￥55.00",
+        "img": "images/cf69a999c4710b8281920c8030036203eca6198c.jpg",
+        "detimg1":"../images/goods4051.jpg",
+        "detimg2":"../images/goods4052.jpg",
+        "detimg3":"../images/goods4053.jpg",
+        "weight1":"4个",
+        "weight2":"大号/6个",
+        "weight3":"大号/8个"
+    },
+    {
+        "id": "406",
+        "http":"",
+        "title": "【巨无霸特价】新西兰佳沛金奇异果",
+        "img": "images/aad14cd18e496ecc820d4ee924eb6cc6e5af3387.jpg",
+        "price":"￥99.00",
+        "marketPrice":"￥118.00",
+        "detimg1":"../images/goods3051.jpg",
+        "detimg2":"../images/goods3052.jpg",
+        "detimg3":"../images/goods3053.jpg",
+        "weight1":"6个",
+        "weight2":"16个",
+        "weight3":"原装22个【每天限量1000份】"
+    },
+    {
+        "id": "407",
+        "http":"",
+        "title": "优质墨西哥牛油果",
+        "price": "￥65.00",
+        "img": "images/b3f5ce060778c081320d958a4cfa6ed0a39e416b.jpg",
+        "marketPrice":"￥95.00",
+        "detimg1":"../images/goods4071.jpg",
+        "detimg2":"../images/goods4072.jpg",
+        "detimg3":"../images/goods4073.jpg",
+        "weight1":"大号6个",
+        "weight2":"6个",
+        "weight3":"大号12个"
+    },
+    {
+        "id": "408",
+        "http":"",
+        "title": "精品大号新西兰红玫瑰",
+        "price": "￥65.00",
+        "img": "images/1ca18ef1dff1ece17225494d9acad85efb0b6ceb.jpg"
+    },
+    {
+        "id":"409",
+        "http":"",
+        "title": "更多国产鲜果"
+    },
+    {
+        "id": "410",
+        "http":"",
+        "title": "陕西高原红富士",
+        "img": "images/img01.jpg",
+        "price":"￥49.00",
+        "marketPrice":"￥75.00",
+        "detimg1":"../images/goods4101.jpg",
+        "detimg2":"../images/goods4102.jpg",
+        "detimg3":"../images/goods4103.jpg",
+        "weight1":"优质4斤",
+        "weight2":"2斤",
+        "weight3":"优质8斤"
+    },
+    {
+        "id": "411",
+        "http":"",
+        "title": "新疆库尔勒香梨【原价5斤/65元】",
+        "img": "images/img02.jpg"
+    },
+    {
+        "id": "412",
+        "http":"",
+        "title": "【新品】优选甜冬枣8.5折",
+        "img": "images/img03.jpg",
+        "price":"￥29.00",
+        "marketPrice":"￥98.00",
+        "detimg1":"",
+        "detimg2":"",
+        "detimg3":"",
+        "weight1":"优惠2斤",
+        "weight2":"优惠4斤",
+        "weight3":"优惠8斤"
+    },
+    {
+        "id": "413",
+        "http":"",
+        "title": "【优选】台湾金钻凤梨",
+        "price": "￥45.00",
+        "img": "images/img04.jpg"
+    },
+    {
+        "id": "414",
+        "http":"",
+        "title": "陕西红富士",
+        "price": "￥39.00",
+        "img": "images/img05.jpg"
+    },
+    {
+        "id": "415",
+        "http":"",
+        "title": "云南蒙自石榴",
+        "price": "￥59.00",
+        "img": "images/img06.jpg"
+    },
+    {
+        "id": "416",
+        "http":"",
+        "title": "【缤纷夏日特价】优选黄桃；大约5两，果乐汇基地直发",
+        "price": "￥128.00",
+        "img": "images/img07.jpg"
+    },
+    {
+        "id":"417",
+        "http":"",
+        "title": "更多礼盒"
+    },
+    {
+        "id":"418",
+        "http":"",
+        "title": "中秋卡券定制",
+        "img":"images/img08.jpg"
+    },
+    {
+        "id": "419",
+        "http":"",
+        "img": "images/img09.jpg"
+    },
+    {
+        "id": "420",
+        "http":"",
+        "title": "1000元生活系列礼品",
+        "price": "￥1000.00",
+        "img": "images/img10.jpg"
+    },
+    {
+        "id": "421",
+        "http":"",
+        "title": "500元生活系列礼品",
+        "price": "￥45.00",
+        "img": "images/img11.jpg"
+    },
+    {
+        "id": "422",
+        "http":"",
+        "title": "300元生活系列礼品",
+        "price": "￥300.00",
+        "img": "images/img12.jpg"
+    },
+    {
+        "id": "423",
+        "http":"",
+        "title": "200元生活系列礼品",
+        "price": "￥200.00",
+        "img": "images/img13.jpg"
+    },
+    {
+        "id": "424",
+        "http":"",
+        "title": "100元生活系列礼品",
+        "price": "￥100.00",
+        "img": "images/img14.jpg"
+    },
+    {
+        "id":"425",
+        "http":"",
+        "title": "更多卡券"
+    },
+    {
+        "id":"426",
+        "http":"",
+        "title": "中秋水果礼盒",
+        "img":"images/img15.jpg"
+    },
+    {
+        "id": "427",
+        "http":"",
+        "img": "images/img16.jpg"
+    },
+    {
+        "id": "428",
+        "http":"",
+        "title": "【中秋特价】今月古月中秋高端提货券",
+        "price": "￥598.00",
+        "img": "images/img17.jpg"
+    },
+    {
+        "id": "429",
+        "http":"",
+        "title": "【中秋特价】和气满堂中秋提货券",
+        "price": "￥298.00",
+        "img": "images/img18.jpg"
+    },
+    {
+        "id": "430",
+        "http":"",
+        "title": "四季中秋水果提货券",
+        "price": "￥188.00",
+        "img": "images/img19.jpg"
+    },
+    {
+        "id": "431",
+        "http":"",
+        "title": "【中秋特价】月满中秋鲜果中秋节提货券",
+        "price": "￥288.00",
+        "img": "images/img20.jpg"
+    },
+    {
+        "id": "432",
+        "http":"",
+        "title": "福祥臻萃中秋节提货券",
+        "price": "￥498.00",
+        "img": "images/img21.jpg"
+    }
+    
+
+]
+
+
